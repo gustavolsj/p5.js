@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home3/desdeel1/public_html/p5.js
+    - export DEPLOYPATH=/home3/desdeel1/public_html/p5.js/
     - /bin/cp -R archivos $DEPLOYPATH
